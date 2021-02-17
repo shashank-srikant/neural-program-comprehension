@@ -1,19 +1,4 @@
 # The Neuroscience of Program Comprehension
-Resources for the paper **Comprehension of computer code relies primarily on domain-general executive brain regions** by *Anna A. Ivanova, Shashank Srikant, Yotaro Sueoka, Hope H. Kean, Riva Dhamala, Una-May O'Reilly, Marina U. Bers, Evelina Fedorenko*
-
-**Paper preprint:** https://www.biorxiv.org/content/10.1101/2020.04.16.045732v1
-
-**Published in eLife, December 2020:** https://elifesciences.org/articles/58906
-
-The labs involved:
-
-https://evlab.mit.edu/
-
-https://sites.tufts.edu/devtech/
-
-https://alfagroup.csail.mit.edu/
-
-For additional information, contact annaiv@mit.edu, shash@mit.edu, or evelina9@mit.edu.
 
 ## Stimuli
 ### Python (Experiment 1)
@@ -46,13 +31,3 @@ We provide the R code that was used for statistical analyses and plot generation
 ## Parcels
 
 We make available the brain parcels used to define functional systems of interest (MD and language). The parcels were defined using the [GcSS method](https://www.ncbi.nlm.nih.gov/pubmed/20410363) using previously collected data from 197 (MD) and 220 (language) participants.
-
-## Python proficiency test
-
-For Experiment 1, we developed a custom Python proficiency test (22 short response questions and 1 long response question, intended to be completed within 1 hour). There was no overlap between the proficiency test questions and the questions presented to participants in the scanner. 
-
-## Programming background survey
-
-Subjects also responded to a survey at the end of their scans. 
-They reported their proficiency and familiarity with a number of programming related topics. 
-`./survey/` has a PDF of these questions.
